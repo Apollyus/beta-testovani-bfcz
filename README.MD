@@ -12,3 +12,7 @@ Pro vylepšení přesnosti projektu chci získat lepší data a dostat lepší i
 - Nainstalovaný requirements.txt
 - API klíče (OpenAI, QDrant)
 - Zbytek věcí v .env.example
+
+## Jaké weby jak?
+- ČT24 - pouziti jejich neverejne api na ziskani a poskladani vsech odkazu na scraping
+- iRozhlas - jejich archiv vsech clanku (od roku 2000 po soucasnost, mely by tam byt vsechny clanky) [https://www.irozhlas.cz/zpravy-archiv/2000-10-02]
